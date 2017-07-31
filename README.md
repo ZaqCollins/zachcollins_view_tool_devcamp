@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-ZachcollinsViewToolDevcamp::Rendereer.copyright 'Zachariah', 'All rights reserved'
+ZachcollinsViewToolDevcamp::Rendereer.copyright 'Zachariah Collins', 'All rights reserved'
 ```
 
 ## Development
